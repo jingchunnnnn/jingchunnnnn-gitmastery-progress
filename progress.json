@@ -1,10 +1,98 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1786947258.084566,
+    "completed_at": 1786947261.387873,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786947557.332572,
+    "completed_at": 1786947559.040988,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786946573.439633,
+    "completed_at": 1786946576.75301,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786884614.631285,
+    "completed_at": 1786884616.20561,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786936015.976345,
+    "completed_at": 1786936019.017004,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786935287.937219,
+    "completed_at": 1786935289.48243,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786884832.537391,
+    "completed_at": 1786884834.108401,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786935707.546866,
+    "completed_at": 1786935710.24032,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786934626.445581,
+    "completed_at": 1786934947.098734,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1786883469.519961,
     "completed_at": 1786883471.082235,
     "comments": [
       "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786884457.697518,
+    "completed_at": 1786884459.123479,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -27,91 +115,12 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786884457.697518,
-    "completed_at": 1786884459.123479,
+    "exercise_name": "view-commits",
+    "started_at": 1787279684.636599,
+    "completed_at": 1787279686.933491,
     "comments": [
-      "Great work! You have successfully fixed the attendance system!"
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
     ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786884614.631285,
-    "completed_at": 1786884616.20561,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1786884832.537391,
-    "completed_at": 1786884834.108401,
-    "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786934626.445581,
-    "completed_at": 1786934947.098734,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786935287.937219,
-    "completed_at": 1786935289.48243,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1786935707.546866,
-    "completed_at": 1786935710.24032,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786936015.976345,
-    "completed_at": 1786936019.017004,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1786946573.439633,
-    "completed_at": 1786946576.75301,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1786947258.084566,
-    "completed_at": 1786947261.387873,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1786947557.332572,
-    "completed_at": 1786947559.040988,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
-    ],
-    "status": "Completed"
+    "status": "Incomplete"
   }
 ]
